@@ -1,3 +1,0 @@
-﻿  game.cpp
-D:\gitee本地仓库\c_language\扫雷游戏\game.h(1,1): warning C4828: 文件包含在偏移 0x2899 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  扫雷游戏.vcxproj -> D:\gitee本地仓库\c_language\扫雷游戏\x64\Debug\扫雷游戏.exe
